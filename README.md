@@ -9,3 +9,5 @@ My name is Sunday David, a mobile software developer at Wefixam:
 - 📫 How to reach me: Twitter, Linkedin, Facebook
 - ⚡ Fun fact: The word ‘Android’ means a human with a male robot appearance.
 
+Thanks for checking out my profile:heart_eyes: :hearts: :hearts:
+
