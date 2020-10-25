@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sunday David, a mobile software developer at Wefixam:
+My name is Sunday David, a mobile software developer at Ankorit:
 
 - 🔭 I’m currently working on any form of mobile Applications
 - 🌱 I’m currently learning Blockchain Technology
