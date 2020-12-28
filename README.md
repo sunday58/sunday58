@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![love kotlin](https://user-images.githubusercontent.com/46400048/103219271-7cb44400-491d-11eb-86bd-a6bbc8d70efa.png)
+
+
 My name is Sunday David, a mobile software developer at Anchorit:
 
 - 🔭 I’m currently working on any form of mobile Applications
