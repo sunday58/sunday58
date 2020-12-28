@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![love kotlin](https://user-images.githubusercontent.com/46400048/103219271-7cb44400-491d-11eb-86bd-a6bbc8d70efa.png)
+![love kotlin 3](https://user-images.githubusercontent.com/46400048/103220127-c6059300-491f-11eb-890b-e87c36fce570.png)
 
 
 My name is Sunday David, a mobile software developer at Anchorit:
