@@ -4,7 +4,7 @@
 ![love kotlin 3](https://user-images.githubusercontent.com/46400048/103220127-c6059300-491f-11eb-890b-e87c36fce570.png)
 
 
-My name is Sunday David, a mobile software developer at Anchorit:
+My name is Sunday David, a mobile software developer at GIG Logistics:
 
 - 🔭 I’m currently working on any form of mobile Applications
 - 🌱 I’m currently learning Blockchain Technology
